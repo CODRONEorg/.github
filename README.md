@@ -1,1 +1,1 @@
-# .github
+CODRONE provides autonomous flying surveillance. At CODRONE, we develop autonomous drone solutions to solve your needs. Our autonomous flying security cameras can provide surveillance of critical infrastructure, document construction projects, ensure aerial overview of festivals, and much more.
